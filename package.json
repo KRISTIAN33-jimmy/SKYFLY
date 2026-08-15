@@ -1,0 +1,6 @@
+{
+  "name": "skyline-airshow",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "netlify dev", "start": "netlify dev" }
+}
